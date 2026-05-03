@@ -1,0 +1,139 @@
+{
+  "currentUser": {
+    "id": "u0",
+    "username": "you",
+    "displayName": "Your Account"
+  },
+  "follows": ["u1", "u2", "u3", "u4", "u5", "u6", "u7", "u8"],
+  "users": {
+    "u1": {
+      "id": "u1",
+      "username": "alex.travels",
+      "displayName": "Alex Morgan",
+      "avatar": "/avatars/alex.jpg",
+      "stories": [
+        {
+          "id": "s1",
+          "imageUrl": "/stories/alex_beach.jpg",
+          "timestamp": 7200000
+        },
+        {
+          "id": "s2",
+          "imageUrl": "/stories/alex_sunset.jpg",
+          "timestamp": 3600000
+        }
+      ]
+    },
+    "u2": {
+      "id": "u2",
+      "username": "foodie.nina",
+      "displayName": "Nina Patel",
+      "avatar": "/avatars/nina.jpg",
+      "stories": [
+        {
+          "id": "s3",
+          "imageUrl": "/stories/nina_pasta.jpg",
+          "timestamp": 5400000
+        }
+      ]
+    },
+    "u3": {
+      "id": "u3",
+      "username": "jake.fit",
+      "displayName": "Jake Williams",
+      "avatar": "/avatars/jake.jpg",
+      "stories": [
+        {
+          "id": "s4",
+          "imageUrl": "/stories/jake_gym.jpg",
+          "timestamp": 10800000
+        },
+        {
+          "id": "s5",
+          "imageUrl": "/stories/jake_run.jpg",
+          "timestamp": 9000000
+        },
+        {
+          "id": "s6",
+          "imageUrl": "/stories/jake_meal.jpg",
+          "timestamp": 7200000
+        }
+      ]
+    },
+    "u4": {
+      "id": "u4",
+      "username": "mia.designs",
+      "displayName": "Mia Chen",
+      "avatar": "/avatars/mia.jpg",
+      "stories": [
+        {
+          "id": "s7",
+          "imageUrl": "/stories/mia_sketch.jpg",
+          "timestamp": 14400000
+        }
+      ]
+    },
+    "u5": {
+      "id": "u5",
+      "username": "sam.music",
+      "displayName": "Sam Rivera",
+      "avatar": "/avatars/sam.jpg",
+      "stories": [
+        {
+          "id": "s8",
+          "imageUrl": "/stories/sam_guitar.jpg",
+          "timestamp": 1800000
+        },
+        {
+          "id": "s9",
+          "imageUrl": "/stories/sam_stage.jpg",
+          "timestamp": 900000
+        }
+      ]
+    },
+    "u6": {
+      "id": "u6",
+      "username": "olivia.pets",
+      "displayName": "Olivia Brown",
+      "avatar": "/avatars/olivia.jpg",
+      "stories": [
+        {
+          "id": "s10",
+          "imageUrl": "/stories/olivia_dog.jpg",
+          "timestamp": 21600000
+        }
+      ]
+    },
+    "u7": {
+      "id": "u7",
+      "username": "dev.kai",
+      "displayName": "Kai Nakamura",
+      "avatar": "/avatars/kai.jpg",
+      "stories": [
+        {
+          "id": "s11",
+          "imageUrl": "/stories/kai_desk.jpg",
+          "timestamp": 28800000
+        },
+        {
+          "id": "s12",
+          "imageUrl": "/stories/kai_coffee.jpg",
+          "timestamp": 25200000
+        }
+      ]
+    },
+    "u8": {
+      "id": "u8",
+      "username": "emma.yoga",
+      "displayName": "Emma Torres",
+      "avatar": "/avatars/emma.jpg",
+      "stories": [
+        {
+          "id": "s13",
+          "imageUrl": "/stories/emma_yoga.jpg",
+          "timestamp": 43200000
+        }
+      ]
+    }
+  }
+}
